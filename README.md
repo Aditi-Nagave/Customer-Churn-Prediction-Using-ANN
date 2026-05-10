@@ -117,7 +117,6 @@ streamlit run app.py
 The ANN model was trained using:
 
 - Dense Neural Network Layers
-- ReLU Activation
 - Sigmoid Output Activation
 - Binary Crossentropy Loss
 - Adam Optimizer
